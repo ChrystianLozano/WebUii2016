@@ -26,7 +26,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "require.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.scrolleffects.js", "licenciatura-escolarizada-nutricion.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "require.js", "jquery.scrolleffects.js", "licenciatura-escolarizada-nutricion.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://uii.edu.mx/phone/licenciatura-escolarizada-nutricion.html"/>
@@ -34,8 +34,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Licenciatura en Nutrición | Instituto Irapuato | ¡DECIDE SER!</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_1360.css?crc=4107397563"/>
-  <link rel="stylesheet" type="text/css" href="css/licenciatura-escolarizada-nutricion.css?crc=197153818" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_1360.css?crc=3847470430"/>
+  <link rel="stylesheet" type="text/css" href="css/licenciatura-escolarizada-nutricion.css?crc=109417421" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_licenciatura-escolarizada-nutricion.css?crc=4270319125"/>
@@ -626,13 +626,13 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(el
 Muse.Utils.initWidget('#pamphletu1732', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu1732 */
 Muse.Utils.initWidget('#pamphletu5209', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu5209 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u100742').registerPositionScrollEffect([{"in":[-Infinity,653.9],"speed":[0,-1]},{"in":[653.9,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u4583').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u5198').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#buttonu5201').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#buttonu5205').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#menuu9629').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#pamphletu5209').registerPositionScrollEffect([{"in":[-Infinity,174],"speed":[0,-1]},{"in":[174,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u100742').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,653.9]},{"speed":[0,0],"in":[653.9,Infinity]}]);/* scroll effect */
+$('#u4583').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
+$('#u5198').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
+$('#buttonu5201').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
+$('#buttonu5205').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
+$('#menuu9629').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
+$('#pamphletu5209').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,174]},{"speed":[0,0],"in":[174,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
