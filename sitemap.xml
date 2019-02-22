@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://uii.edu.mx/index.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/index.html"/>
@@ -14,8 +14,34 @@
     </image:image>
   </url>
   <url>
-    <loc>http://uii.edu.mx/servicio-social-bolsa-trabajo.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://uii.edu.mx/licenciatura-mixta-administracion-negocios-internacionales-sabatina-vespertina.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-administracion-negocios-internacionales-sabatina-vespertina.html"/>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/call-answer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/atencionlamera.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://uii.edu.mx/licenciatura-mixta-relaciones-industriales-sabatina-vespertina.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-relaciones-industriales-sabatina-vespertina.html"/>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/call-answer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/atencionlamera.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://uii.edu.mx/servicio-social-bolsa-trabajo-empresa.html</loc>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,8 +52,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://uii.edu.mx/servicio-social-bolsa-trabajo-empresa.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://uii.edu.mx/servicio-social-bolsa-trabajo.html</loc>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -39,7 +65,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-maestrias-cursos-actualizacion-profesional.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -51,7 +77,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-maestrias-experiencia-profesional.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,7 +92,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-maestria-tesis.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -81,7 +107,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-experiencia-profesional.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -96,7 +122,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-excelencia-academica.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -111,7 +137,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-cursos-actualizacion-profesional.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -123,7 +149,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-estudios-especialidad.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -135,7 +161,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-estudios-maestria.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -150,7 +176,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-servicio-social-profesional.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -165,7 +191,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/titulacion-licenciatura-tesis.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -180,7 +206,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/servicios-escolares.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -195,7 +221,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-relaciones-laborales-recursos-humanos.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-relaciones-laborales-recursos-humanos.html"/>
@@ -208,7 +234,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-ingenieria-industrial.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-ingenieria-industrial.html"/>
@@ -221,7 +247,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-turismo.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-turismo.html"/>
@@ -234,7 +260,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/cas.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/cas.html"/>
@@ -247,7 +273,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/deportes.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/deportes.html"/>
@@ -258,18 +284,18 @@
       <image:loc>http://uii.edu.mx/images/atencionlamera.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://uii.edu.mx/images/01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://uii.edu.mx/images/02.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://uii.edu.mx/images/03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/022.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://uii.edu.mx/cultura.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/cultura.html"/>
@@ -291,7 +317,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-nutricion.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-nutricion.html"/>
@@ -304,7 +330,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/educacion-continua.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/educacion-continua.html"/>
@@ -317,7 +343,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados-especialidad-mercadotecnia.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados-especialidad-mercadotecnia.html"/>
@@ -330,7 +356,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados-especialidad-finanzas.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados-especialidad-finanzas.html"/>
@@ -343,7 +369,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados-especialidad-didactica-aplicada.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados-especialidad-didactica-aplicada.html"/>
@@ -356,7 +382,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados-maestria-ensenanza.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados-maestria-ensenanza.html"/>
@@ -369,7 +395,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados-maestria-administracion.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados-maestria-administracion.html"/>
@@ -382,7 +408,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/especialidades.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/especialidades.html"/>
@@ -395,7 +421,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/maestr%C3%ADas.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/maestrías.html"/>
@@ -408,7 +434,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/posgrados.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/posgrados.html"/>
@@ -421,7 +447,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-psicologia.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-psicologia.html"/>
@@ -434,7 +460,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-mercadotecnia-publicidad.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-mercadotecnia-publicidad.html"/>
@@ -447,7 +473,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-comunicacion.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-comunicacion.html"/>
@@ -460,7 +486,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-derecho.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-derecho.html"/>
@@ -473,7 +499,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-contabilidad.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-contabilidad.html"/>
@@ -486,7 +512,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-escolarizada-administracion-negocios-internacionales.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-escolarizada-administracion-negocios-internacionales.html"/>
@@ -499,7 +525,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-mixta-relaciones-industriales.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-relaciones-industriales.html"/>
@@ -512,7 +538,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-mixta-psicologia-educativa.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-psicologia-educativa.html"/>
@@ -525,7 +551,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-mixta-derecho.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-derecho.html"/>
@@ -538,7 +564,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-mixta-administracion-negocios-internacionales.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-administracion-negocios-internacionales.html"/>
@@ -551,7 +577,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciatura-mixta-contabilidad.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciatura-mixta-contabilidad.html"/>
@@ -564,7 +590,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/departamentos.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -576,7 +602,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/nosotros.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/nosotros.html"/>
@@ -597,6 +623,9 @@
     </image:image>
     <image:image>
       <image:loc>http://uii.edu.mx/images/dsc_0116.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uii.edu.mx/images/dsc_0143.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://uii.edu.mx/images/dsc_0148.jpg</image:loc>
@@ -675,9 +704,6 @@
     </image:image>
     <image:image>
       <image:loc>http://uii.edu.mx/images/atencionlamera.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://uii.edu.mx/images/dsc_01432.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://uii.edu.mx/images/instituto%20irapuato%20radio%2002-crop-u52655.jpg</image:loc>
@@ -793,7 +819,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/preparatoria-para-adultos.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/preparatoria-para-adultos.html"/>
@@ -806,7 +832,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciaturas-mixtas.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciaturas-mixtas.html"/>
@@ -819,7 +845,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciaturas-escolarizadas.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciaturas-escolarizadas.html"/>
@@ -832,7 +858,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/licenciaturas.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/licenciaturas.html"/>
@@ -845,7 +871,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/preparatoria-vespertina.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/preparatoria-vespertina.html"/>
@@ -858,7 +884,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/preparatoria-matutina.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/preparatoria-matutina.html"/>
@@ -871,7 +897,7 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/preparatoria.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://uii.edu.mx/phone/preparatoria.html"/>
@@ -884,24 +910,12 @@
   </url>
   <url>
     <loc>http://uii.edu.mx/phone/licenciatura-escolarizada-psicologia-1024.html</loc>
-    <lastmod>2019-01-31</lastmod>
+    <lastmod>2019-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://uii.edu.mx/images/call-answer.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://uii.edu.mx/assets/encuesta-alumnos-ssp.docx</loc>
-    <lastmod>2017-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://uii.edu.mx/assets/2.-proyecto-de-actividades-de-practicas-profesionales-20162-(7).docx</loc>
-    <lastmod>2017-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://uii.edu.mx/assets/encuesta-empresa-ssp.docx</loc>
@@ -952,20 +966,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://uii.edu.mx/assets/1-carta-de-aceptaci%C3%B3n-de-ssp.docx</loc>
-    <lastmod>2016-08-30</lastmod>
+    <loc>http://uii.edu.mx/assets/inv.pdf</loc>
+    <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://uii.edu.mx/assets/3.-reporte-mensual-de-actividades-de-servicio-social.docx</loc>
+    <loc>http://uii.edu.mx/assets/encuesta-alumnos-ssp.docx</loc>
+    <lastmod>2017-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://uii.edu.mx/assets/2.-proyecto-de-actividades-de-practicas-profesionales-20162-(7).docx</loc>
     <lastmod>2017-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://uii.edu.mx/assets/informe-rendicion-de-cuentas-preparatoria-vespertina.pdf</loc>
-    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1030,7 +1044,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://uii.edu.mx/assets/1.-carta-de-aceptaci%C3%B3n-de-practicas-profesionales.docx</loc>
+    <loc>http://uii.edu.mx/assets/3.-reporte-mensual-de-actividades-de-servicio-social.docx</loc>
     <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1038,6 +1052,18 @@
   <url>
     <loc>http://uii.edu.mx/assets/informe-de-actividades-y-rendici%C3%B3n-de-cuentas-colbach20162.pdf</loc>
     <lastmod>2016-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://uii.edu.mx/assets/1-carta-de-aceptaci%C3%B3n-de-ssp.docx</loc>
+    <lastmod>2016-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://uii.edu.mx/assets/1.-carta-de-aceptaci%C3%B3n-de-practicas-profesionales.docx</loc>
+    <lastmod>2017-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1318,7 +1344,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://uii.edu.mx/assets/inv.pdf</loc>
+    <loc>http://uii.edu.mx/assets/psic.pdf</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1330,8 +1356,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://uii.edu.mx/assets/psic.pdf</loc>
-    <lastmod>2018-08-06</lastmod>
+    <loc>http://uii.edu.mx/assets/informe-rendicion-de-cuentas-preparatoria-vespertina.pdf</loc>
+    <lastmod>2018-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
