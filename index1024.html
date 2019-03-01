@@ -34,8 +34,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Instituto Irapuato: Preparatoria, Universidad y Posgrados ¡DECIDE SER!</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_1024---inicio.css?crc=4013279701"/>
-  <link rel="stylesheet" type="text/css" href="css/index1024.css?crc=4039636719" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_1024---inicio.css?crc=461665011"/>
+  <link rel="stylesheet" type="text/css" href="css/index1024.css?crc=406899730" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index1024.css?crc=4243592676"/>
@@ -787,10 +787,10 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu185211', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:true,displayInterval:5000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu185211 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u89371').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,203]},{"speed":[0,0],"in":[203,Infinity]}]);/* scroll effect */
-$('#u89155').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,203]},{"speed":[0,0],"in":[203,Infinity]}]);/* scroll effect */
-$('#buttonu89367').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,203]},{"speed":[0,0],"in":[203,Infinity]}]);/* scroll effect */
-$('#menuu89401').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,202]},{"speed":[0,0],"in":[202,Infinity]}]);/* scroll effect */
+$('#u89371').registerPositionScrollEffect([{"in":[-Infinity,203],"speed":[0,-1]},{"in":[203,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u89155').registerPositionScrollEffect([{"in":[-Infinity,203],"speed":[0,-1]},{"in":[203,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#buttonu89367').registerPositionScrollEffect([{"in":[-Infinity,203],"speed":[0,-1]},{"in":[203,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#menuu89401').registerPositionScrollEffect([{"in":[-Infinity,202],"speed":[0,-1]},{"in":[202,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
